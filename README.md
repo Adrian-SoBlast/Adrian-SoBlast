@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Adrian-SoBlast
 - 👀 I’m interested in fast responding apps 
-- 🌱 I’m currently learning about maui
-- 💞️ I’m looking to collaborate on apps that are event oriented
 - 📫 How to reach me adrian@SoBlast.net
 
 <!---
